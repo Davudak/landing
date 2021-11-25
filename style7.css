@@ -1,6 +1,9 @@
 *,html{padding: 0px;
 margin: 0px;
 }
+body{
+	background-color: black;
+}
 #men{
 background-color: yellow;
 width: 100%;
