@@ -1,6 +1,9 @@
 *,html{padding: 0px;
 margin: 0px;
 }
+body{
+	font-size: 15pt;
+}
 #men{
 background-color: yellow;
 width: 100%;
